@@ -19,3 +19,8 @@ Gopan Ravikumar Girjia
 ## SYSTEM DESIGN
 <p align="center">
   <img alt="Light" src="img/System_Design.jpg">
+
+---
+
+## METHODOLOGY / TECHNOLOGY 
+1. 
