@@ -37,5 +37,5 @@ Gopan Ravikumar Girjia
   <img alt="Light" src="img/Chatbot Interface.jpg">
 
 ---
-## DIALOGUE SYSTEM INTERFACE
+## Report
 [Project Report](/PLP_Group%2017_MovieBot_Report.pdf)
