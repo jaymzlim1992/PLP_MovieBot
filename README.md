@@ -38,4 +38,4 @@ Gopan Ravikumar Girjia
 
 ---
 ## DIALOGUE SYSTEM INTERFACE
-[Project Report](/assets/electrocat.png)
+[Project Report](/img/System_Design.jpg)
