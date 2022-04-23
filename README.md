@@ -38,4 +38,4 @@ Gopan Ravikumar Girjia
 
 ---
 ## DIALOGUE SYSTEM INTERFACE
-[Project Report](/img/System_Design.jpg)
+[Project Report](/System_Design.jpg)
