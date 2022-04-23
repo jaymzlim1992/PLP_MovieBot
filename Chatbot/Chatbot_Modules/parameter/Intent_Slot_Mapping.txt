@@ -1,0 +1,21 @@
+===== Intent Mapping =====
+0: CLOSING
+1: CONFIRM
+2: INFORM
+3: INFORM INTENT - MOVIE RECOMMENDATION
+4: INFORM INTENT - MOVIE SENTIMENT
+5: NEGATE
+6: OOS
+7: THANK YOU
+
+
+===== Slot BIO Tag Mapping =====
+0: B-actor
+1: B-director
+2: B-genre
+3: B-title
+4: I-actor
+5: I-director
+6: I-genre
+7: I-title
+8: O
