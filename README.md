@@ -23,12 +23,12 @@ Gopan Ravikumar Girjia
 ---
 
 ## METHODOLOGIES / TECHNOLOGIES
-1. Natural Language Understanding (Intent Classification & Slot Filling)
-2. Natural Language Generation (Data-to-Text Controllable Text Generation)
-3. Dialogue Management (Dialogue State Tracking & Dialogue Policy)
-4. Abstract-Based Sentiment Analysis, ABSA (Astract Extraction/NER)
-5. Recommendation System, Word Embeddings similarity measurement
-6. Transformer-Based Deep Learning Models (BERT, DistilBERT, BERTweet, T5)
+1. **Natural Language Understanding** (Intent Classification & Slot Filling)
+2. **Natural Language Generation** (Data-to-Text Controllable Text Generation)
+3. **Dialogue Management** (Dialogue State Tracking & Dialogue Policy)
+4. Abstract-Based **Sentiment Analysis**, ABSA (Astract Extraction/NER)
+5. Recommendation System, **Word Embeddings** similarity measurement
+6. **Transformer-Based Deep Learning Models** (BERT, DistilBERT, BERTweet, T5)
 7. Natural Language Processing Techniques, Libraries and Python Deep Learning Frameworks (NLTK, SpaCy, Pytorch, HuggingFace)
 
 ---
