@@ -18,4 +18,4 @@ Gopan Ravikumar Girjia
 
 ## SYSTEM DESIGN
 <p align="center">
-  <img alt="Light" src="img/Chatbot Interface.jpg">
+  <img alt="Light" src="img/System_Design.jpg">
