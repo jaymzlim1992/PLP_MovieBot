@@ -38,4 +38,4 @@ Gopan Ravikumar Girjia
 
 ---
 ## DIALOGUE SYSTEM INTERFACE
-[Project Report](img/Chatbot Interface.jpg)
+[Project Report](/assets/images/electrocat.png)
